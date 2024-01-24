@@ -2,7 +2,7 @@
   "name": "app",
   "version": "0.1.0",
   "private": false,
-  "descriptin": "Basic NextJS"
+  "descriptin": "Basic NextJS",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
